@@ -6,6 +6,7 @@ This directory contains samples of Asciidoc source files, for use with our inter
 NOTE: If you update any boilerplate in this repo, please update the DocBook version as well:
 
 https://github.com/oreillymedia/docbook_samples
+
 ----
 
 Please note that if you view the file contents in the GitHub UI, you'll need to click on the "Raw" link to see the raw unformatted Asciidoc markup.
