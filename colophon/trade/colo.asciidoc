@@ -1,4 +1,4 @@
 [colophon]
 = Colophon
 
-The body font is ScalaPro, the heading font is BentonSans, and the code font is TheSansMonoCd.
+The cover and body font is Scala Pro, the heading font is Benton Sans, and the code font is LucasFont's TheSansMonoCondensed.
