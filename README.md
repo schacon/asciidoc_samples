@@ -17,7 +17,7 @@ Files are organized as follows:
 
 * Standard files:
   * book.asciidoc (model for book with includes)
-  * preface/animal/preface.asciidoc (model for Animal preface; for other series, use preface/all_other_series/preface.asciidoc)
+  * preface/animal/preface.asciidoc (model for Animal preface; for other series, use preface/all\_other\_series/preface.asciidoc)
   * ch01.asciidoc (model for chapters)
 * Optional (copy any of these you need for your book):
   * dedication.asciidoc (model for book with a dedication)
@@ -26,7 +26,7 @@ Files are organized as follows:
   * appendix.asciidoc  (model for book with an appendix)
   * part1.asciidoc  (model for book organized in Parts)
 * Extras (generally for internal use, during later production stages): 
-  * colophon/<series>/colo.asciidoc (colophon)
+  * colophon/\<series\>/colo.asciidoc (colophon)
   * book-docinfo.xml (contains ISBN and author information)
 
 ## Further info
